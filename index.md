@@ -12,7 +12,7 @@ I joined Exeter in 2019 after completing my PhD in Economics at the Institute fo
 
 - [Nurturing Childhood Curiosity to Enhance Learning: Evidence from a Randomized Pedagogical Intervention](https://doi.org/10.1257/aer.20230084) (with Sule Alan), *American Economic Review*, April 2024.
 - [Social Exclusion and Ethnic Segregation in Schools: The Role of Teachers' Ethnic Prejudice](https://doi.org/10.1162/rest_a_01111) (with Sule Alan, Enes Duysak and Elif Kubilay), *Review of Economics and Statistics*, 2023.
-- [Gender Stereotypes in the Classroom and Effects on Achievement](https://doi.org/10.1162/rest_a_00756) (with Sule Alan and Seda Ertaç), *Review of Economics and Statistics*, 2018.
+- [Gender Stereotypes in the Classroom and Effects on Achievement](https://doi.org/10.1162/rest_a_00756) (with Sule Alan and Seda Ertac), *Review of Economics and Statistics*, 2018.
 
 ## Working papers and ongoing research
 
