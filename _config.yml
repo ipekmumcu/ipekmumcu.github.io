@@ -1,0 +1,16 @@
+# Ipek Mumcu academic website; built for GitHub Pages + Jekyll.
+title: "Ipek Mumcu"
+description: "Research and publications of Ipek Mumcu, an economist at the University of Exeter."
+author: "Ipek Mumcu"
+lang: en-GB
+markdown: kramdown
+theme: minima
+
+# Portrait: assets/images/ipek-mumcu.jpg
+# Current CV: assets/Ipek_Mumcu_CV_2026.pdf.
+profile_photo: "/assets/images/ipek-mumcu.jpg"
+cv_file: "/assets/Ipek_Mumcu_CV_2026.pdf"
+
+exclude:
+  - README.md
+  - REVIEW_BEFORE_PUBLISHING.md
