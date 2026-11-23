@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am an Assistant Professor in Economics at the University of Exeter Business School. My research interests are in the economics of education, labour economics, and field experiments. I study how school environments, pedagogy, and social interactions influence learning and educational outcomes.
+I am a Lecturer (Assistant Professor) in Economics at the University of Exeter Business School. My research interests are in the economics of education, labour economics, and field experiments. I study how school environments, pedagogy, and social interactions influence learning and educational outcomes.
 
 I joined Exeter in 2019 after completing my PhD in Economics at the Institute for Social and Economic Research (ISER), University of Essex.
 
