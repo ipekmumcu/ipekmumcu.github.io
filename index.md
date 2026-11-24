@@ -16,7 +16,7 @@ I joined Exeter in 2019 after completing my PhD in Economics at the Institute fo
 
 ## Working papers and ongoing research
 
-- [(In)dependent Thinking with AI](https://drive.google.com/file/d/1oQNU7XYQRoWzVYaQpcafvsw15yzGSJid/view?usp=share_link) (with [Elif Kubilay](https://www.elifkubilay.com/)). [Preliminary draft](https://drive.google.com/file/d/1oQNU7XYQRoWzVYaQpcafvsw15yzGSJid/view?usp=share_link).
+- [(In)dependent Thinking with AI: Evidence from Adolescents](https://drive.google.com/file/d/1oQNU7XYQRoWzVYaQpcafvsw15yzGSJid/view?usp=share_link) (with [Elif Kubilay](https://www.elifkubilay.com/)).
 - Social Status in Student Networks and Implications for Perceived Social Climate in Schools (with [Elif Kubilay](https://www.elifkubilay.com/)). Ongoing research.
 - Unveiling Transparency: Understanding the Effects of Gender Pay Gap Reporting Policy in the UK (with I. Lal, D. Ozdemir and [Elif Kubilay](https://www.elifkubilay.com/)). Ongoing research.
 - Harnessing AI to Spark Curiosity: Experimental Evidence from Middle School Education (with [Vojtěch Bartoš](https://vojtechbartos.net/), [Jana Cahlíková](https://janacahlikova.net/), Miroslava Hapalová, Roman Lyach and [SCIO Research](https://scioresearch.com/)). [AEA RCT Registry](https://www.socialscienceregistry.org/trials/17865).
